@@ -1,5 +1,5 @@
 Useful notes / Blog
 
-[nvim](/pages/NVIM/)
+[nvim](/pages/NVIM.md)
 
 
