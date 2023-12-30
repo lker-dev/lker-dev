@@ -1,4 +1,7 @@
-### Hi there 👋
+Jonathan Walker
+
+[![LinkedIn Logo](./assets/icons/In-Blue-48.png)](https://www.linkedin.com/in/lkerdev/)
+
 
 <!--
 **lker-dev/lker-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
