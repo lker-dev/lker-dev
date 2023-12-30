@@ -1,6 +1,8 @@
 Jonathan Walker
 
-[![LinkedIn Logo](./assets/icons/In-Blue-48.png)](https://www.linkedin.com/in/lkerdev/)
+[Blog](/pages/BLOG/)
+
+[![LinkedIn Logo](/assets/icons/In-Blue-48.png)](https://www.linkedin.com/in/lkerdev/)
 
 
 <!--
