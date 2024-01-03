@@ -1,1 +1,1 @@
-- 🌱 I’m always learning
+🌱 always learning
