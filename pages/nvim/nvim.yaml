@@ -1,0 +1,72 @@
+- commands:
+    CTRL-]:
+      description: jump to a subject under the cursor
+    CTRL-O: 
+      description: jump back (repeat to go further)
+    hjkl:
+      description: left down up right
+    x:
+      description: delete a character
+    dd:
+      description: delete a line
+    J:
+      description: delete a line break
+    u:
+      description: undo
+    CTRL-R:
+      description: redo
+    U:
+      description: undo line
+    a:
+      description: append
+    A: 
+      description: append end of line
+    o:
+      description: create a new empty line and enter `i` mode
+    O:
+      description: opens a line above the cursor
+    (number e.g. 1-999):
+      description: repeat next command count times
+    ZZ:
+      description: writes the file and exits
+    :q!:
+      description: exit dont save
+    ::
+      description: command line mode
+    :q(uit): 
+      description: quit
+    :help:
+      description: help
+      example: 
+        - :help deleting
+        - :help E37 (information about error 37)
+
+    CTRL-T:
+      description: pop tag - takes you to previous position
+    :ab:
+      description: set abbreviation good for fixing typos
+      example:
+        - :ab teh the
+        - :ab fro for
+
+
+
+
+- modes:
+    Normal:
+      description: characters typed are commands
+    Visual:
+      description: 
+    Insert:
+      command: i
+      description: characters are inserted as text
+      limeric: iA very inelligent turtle FOund programming Unix a hurdle
+    
+
+  
+
+
+
+- documentation:
+    bars:
+      description: tags are hidden within | 
